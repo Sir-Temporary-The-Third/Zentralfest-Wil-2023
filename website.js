@@ -5,7 +5,7 @@ const h_elements = 5
 const v_elements = 10
 
 const names = []
-names.push("IMG_0052.gif", "IMG_0053.gif", "IMG_0054.gif", "IMG_0055.gif", "IMG_0056.gif")
+names.push("IMG_0052.GIF", "IMG_0053.GIF", "IMG_0054.GIF", "IMG_0055.GIF", "IMG_0056.GIF")
 
 function getImage() {
     return names[Math.floor(Math.random()*names.length)];
