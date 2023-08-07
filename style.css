@@ -1,0 +1,15 @@
+* {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: auto;
+    
+  }
+  
+  html,
+  body {
+    height: 100%;
+    min-height: 100%;
+  }
